@@ -1,0 +1,4 @@
+"Field","DataType","DisplayText","Group","Colour"
+"Nodes","Boolean","Metastases to non-regional nodes","3",
+"Bone","Boolean","Metastases to bone","3",
+"Other","Boolean","Metastases to  other sites","3",
