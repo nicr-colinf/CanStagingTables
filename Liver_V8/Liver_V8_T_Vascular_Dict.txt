@@ -1,0 +1,4 @@
+"Key","DisplayText"
+"1","No vascular invasion"
+"2","Vascular invasion"
+"3","Involving major branch of the portal or hepatic vein"
